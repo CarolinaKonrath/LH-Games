@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "Minecraft",
+      "descricao": "Jogo repleto de aventuras.",
+      "foto": "minecraft.jpg",
+      "preco": 260
+    },
+    {
+      "id": "2",
+      "produto": "Mario",
+      "descricao": "Jogo clássico de aventura.",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": "3",
+      "produto": "Caça aos monstros",
+      "descricao": "Aventura repleta de monstros.",
+      "foto": "monstros.png",
+      "preco": 320
+    }
+  ]
+}
